@@ -12,3 +12,73 @@
     padding: 30px 16px;
     
 }
+
+
+footer {
+    color: #fff;
+    text-align: center;
+}
+
+.social-icons{
+    background-color: rgb(58, 57, 57);
+    padding: 30px;
+    
+}
+.social-icons a {
+    background-color: white; 
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    margin: 0 10px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.social-icons a:hover {
+    color: red; /* Change color on hover */
+}
+
+.footerending{
+    
+    text-align: center;
+    padding: 20px;
+    background-color: black;    
+   
+}
+
+
+.footerending p{
+    margin-top: 40px;
+    color: white;
+    
+
+}
+
+#graycolor{
+    color: gray;
+}
+
+.second_container{
+    display: grid;
+    margin-top: 10px;
+    grid-template-columns: 1fr 1fr;
+    padding-left: 75px;
+}
+.second_container img{
+    width: 500px;
+    height: 300px;
+}
+.partOne{
+    padding: 70px;
+    padding-top: 10px;
+}
+.second_container .Purchase{
+    width: 500px;
+    background-color: rgb(0, 149, 255);
+
+}
+h{
+    text-align: center;
+    font-size: 200%;
+    margin-left: 30%;
+}
