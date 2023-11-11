@@ -27,3 +27,6 @@
 .container {
     display: flex;
 }
+.navbar a:hover{
+    color: green;
+}
