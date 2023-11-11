@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+}
+.navbar {
+    background-color: orange;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    color: white;
+    padding: 30px 16px;
+    
+}

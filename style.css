@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+}
+h{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 5px;
+    color: white;
+    font-size: 25px;
+    
+}
+h1{
+    position: absolute;  
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white; 
+    font-size: 15px;
+}
+header{
+    
+    display: flex;
+    justify-content: space-between;
+}
+
+header img{
+    width: 100%;
+    max-height: 500px;
+}
+.nav-links{
+    position: absolute;
+    right: 35%;
+    top: 30px;
+    
+    
+}
+.nav-links li{
+    list-style: none;
+    display: inline;
+       
+}
+.nav-links li a{
+    margin: 0 15px;
+    color: black;
+    font-weight: 1000;
+    font-size: 20px;
+    
+}
+.nav-links li a:hover{
+    color: green;
+}
+
+
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.navbar a {
+    display: block;
+    color: white;
+    padding: 14px 16px;
+    
+}
+h2{
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    bottom: 10px;
+    font-size: 300%;
+    color: black;
+}
+h5{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(5, 5, 106); 
+}
+
+
+footer {
+    color: #fff;
+    text-align: center;
+}
+
+.social-icons{
+    background-color: rgb(58, 57, 57);
+    padding: 30px;
+    
+}
+.social-icons a {
+    background-color: white; 
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    margin: 0 10px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.social-icons a:hover {
+    color: red; /* Change color on hover */
+}
+
+.footerending{
+    
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    
+   
+}
+
+
+.footerending p{
+    margin-top: 40px;
+    color: white;
+    
+
+}
+
+#graycolor{
+    color: gray;
+}
+
+
