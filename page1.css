@@ -78,7 +78,15 @@ footer {
 
 }
 h{
-    text-align: center;
+    
     font-size: 200%;
     margin-left: 30%;
+    margin-top: 20%;
+}
+h2{
+    font-size: 200%;
+    margin-left: 30%;
+}
+#discount {
+    margin-left:  25%;
 }
