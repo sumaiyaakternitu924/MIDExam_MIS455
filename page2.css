@@ -12,3 +12,18 @@
     padding: 30px 16px;
     
 }
+.productform {
+    margin-left: 36%;
+}
+#address{
+    margin-left: 6px;
+    width: 500px;
+    height: 130px;
+}
+.ourshop {
+    border-radius: 400px;
+    width: 15%;
+}
+.container {
+    display: flex;
+}
