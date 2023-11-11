@@ -12,6 +12,9 @@
     padding: 30px 16px;
     
 }
+.navbar a:hover{
+    color: green;
+}
 .productform {
     margin-left: 36%;
 }
@@ -27,9 +30,7 @@
 .container {
     display: flex;
 }
-.navbar a:hover{
-    color: green;
-}
+
 .btn{
     background-color: orange;
     border-radius: 10px;
@@ -38,8 +39,26 @@
 .contactimg img{
     width: 500px;
     height: 300px;
-    position: absolute;
-    left: 60%;
+    right: 10%;
     top: 100%;
 
+}
+footer {
+    color: #fff;
+    text-align: center;
+}
+.footerending{
+    
+    text-align: center;
+    padding: 20px;
+    background-color: black;    
+   
+}
+.footerending p{
+    margin-top: 40px;
+    color: white;
+}
+
+#graycolor{
+    color: gray;
 }

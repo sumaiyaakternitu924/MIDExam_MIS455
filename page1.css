@@ -12,13 +12,27 @@
     padding: 30px 16px;
     
 }
-
-
+.navbar a:hover{
+    color: green;
+}
 footer {
     color: #fff;
     text-align: center;
 }
+.footerending{   
+    text-align: center;
+    padding: 20px;
+    background-color: black;    
+   
+}
 
+
+.footerending p{
+    margin-top: 40px;
+    color: white;
+    
+
+}
 .social-icons{
     background-color: rgb(58, 57, 57);
     padding: 30px;
@@ -38,21 +52,7 @@ footer {
     color: red; /* Change color on hover */
 }
 
-.footerending{
-    
-    text-align: center;
-    padding: 20px;
-    background-color: black;    
-   
-}
 
-
-.footerending p{
-    margin-top: 40px;
-    color: white;
-    
-
-}
 
 #graycolor{
     color: gray;
@@ -77,8 +77,7 @@ footer {
     background-color: rgb(0, 149, 255);
 
 }
-h{
-    
+h{    
     font-size: 200%;
     margin-left: 30%;
     margin-top: 20%;
@@ -94,6 +93,4 @@ h2{
     font-size: 20px;
     padding: 20px;
 }
-.navbar a:hover{
-    color: green;
-}
+
